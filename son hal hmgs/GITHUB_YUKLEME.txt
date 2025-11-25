@@ -1,0 +1,23 @@
+GITHUB'A NASIL YÜKLENİR? (En Kolay Yöntem)
+
+Projenizi GitHub'da paylaşmak ve linki herkesin görmesini sağlamak için şu adımları izleyin:
+
+1.  **GitHub Hesabınıza Girin:**
+    *   https://github.com adresine gidin ve giriş yapın.
+
+2.  **Yeni Depo (Repository) Oluşturun:**
+    *   Sağ üst köşedeki **+** işaretine tıklayın ve **"New repository"** seçeneğini seçin.
+    *   **Repository name** kısmına bir isim yazın (örneğin: `hmgs-asistani`).
+    *   **Public** seçeneğinin işaretli olduğundan emin olun (herkesin görmesi için).
+    *   **"Create repository"** butonuna basın.
+
+3.  **Dosyaları Yükleyin:**
+    *   Açılan sayfada **"uploading an existing file"** linkini bulun (genellikle "Quick setup" başlığının altında küçük mavi bir linktir).
+    *   Masaüstünüzdeki **"son hal hmgs"** klasörünün içindeki **TÜM DOSYALARI** (dist, node_modules hariç olsa iyi olur ama sürükleseniz de olur, GitHub onları ayıklar veya yükler) seçip bu sayfaya sürükleyin.
+    *   **ÖNEMLİ:** "dist" klasörünü ve "node_modules" klasörünü yüklemenize gerek yoktur, ama kafanız karışırsa hepsini sürükleyin, sorun olmaz. En önemlisi `src`, `public`, `package.json`, `vite.config.ts` gibi dosyaların gitmesidir.
+
+4.  **İşlemi Tamamlayın:**
+    *   Dosyalar yüklendikten sonra sayfanın altındaki **"Commit changes"** butonuna basın.
+
+Tebrikler! Projeniz artık GitHub'da.
+Ana sayfada (README.md dosyasında) sitenizin canlı linki de görünecektir.

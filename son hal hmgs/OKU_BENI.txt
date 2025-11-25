@@ -1,0 +1,18 @@
+BU KLASÖR NETLIFY İÇİN HAZIRDIR
+
+Bu klasör, projenizin en son halini ve yayınlanmaya hazır dosyalarını içerir.
+
+NASIL YAYINLANIR?
+
+Seçenek 1: Netlify Drop (En Kolayı)
+1. https://app.netlify.com/drop adresine gidin.
+2. Bu klasörün içindeki "dist" isimli klasörü sürükleyip sayfaya bırakın.
+3. Siteniz anında yayına girecektir.
+
+Seçenek 2: GitHub/GitLab ile
+1. Bu klasördeki tüm dosyaları GitHub deponuza yükleyin (push).
+2. Netlify, "netlify.toml" dosyasını otomatik algılayacak ve siteyi yayınlayacaktır.
+
+NOT:
+- "dist" klasörü, sitenizin çalışır haldeki (derlenmiş) versiyonudur.
+- Diğer dosyalar kaynak kodlarıdır.
